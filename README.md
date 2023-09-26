@@ -8,7 +8,7 @@ Various files for the "Workshops in Web Development" course.
 
 ## Here is a random block of code.
 
-  `public static void main(String args[]){
+  `public static void main(String args[]){   
     console.println("Hello World!")
   }`
   
