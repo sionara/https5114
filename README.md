@@ -1,4 +1,5 @@
 # https5114
-Workshops in Web Development.
+Various files for the "Workshops in Web Development" course.
 
-Lets make a change!
+**Here is a funny meme!**
+![Funny meme]()
